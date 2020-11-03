@@ -1,6 +1,7 @@
 package day1;
 
 //open guru99 website
+
 //Maximize Browser Window
 //Implicit wait
 //get Title
